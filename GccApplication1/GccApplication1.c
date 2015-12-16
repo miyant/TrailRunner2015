@@ -31,7 +31,7 @@
 // PID Param
 #define K_P     1.00     // P param
 #define K_I     5.00    // I param
-#define K_D     0.0003  // D param
+#define K_D     0.3  // D param
 #define pid_base P_CW_SPEED_NOMAL   // base speed
 #define pid_lim 30     // control value
 #define DELTA_T 0.002   // delta T
