@@ -20,7 +20,8 @@
 #define     ADC_PORT_5  5
 #define     ADC_PORT_6  6
 
-#define COMPARE_VALUE 450
+//#define COMPARE_VALUE 450//450
+#define COMPARE_VALUE 300//450
 
 unsigned int values;
 
