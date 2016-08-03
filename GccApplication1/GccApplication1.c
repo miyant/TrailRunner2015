@@ -44,6 +44,8 @@
 
 #define _LED_ON_
 
+//TEST
+
 // ------------------ Method Definition ------------------
 void split( char * s1 );
 int initMoveAction(void);
